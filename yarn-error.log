@@ -1,0 +1,31 @@
+Arguments: 
+  /Users/reinainouye/.nvm/versions/node/v15.10.0/bin/node /Users/reinainouye/.nvm/versions/node/v15.10.0/bin/yarn global bin
+
+PATH: 
+  /Users/reinainouye/.nvm/versions/node/v15.10.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/reinainouye/Library/Android/sdk/platform-tools:/Users/reinainouye/.nvm/versions/node/v15.10.0/bin:/Users/reinainouye/.yarn/bin
+
+Yarn version: 
+  1.22.10
+
+Node version: 
+  15.10.0
+
+Platform: 
+  darwin arm64
+
+Trace: 
+  SyntaxError: /Users/reinainouye/Desktop/NucampFolder/5-NodeJS-Express-MongoDB/node-express/package.json: Unexpected end of JSON input
+      at JSON.parse (<anonymous>)
+      at /Users/reinainouye/.nvm/versions/node/v15.10.0/lib/node_modules/yarn/lib/cli.js:1625:59
+      at Generator.next (<anonymous>)
+      at step (/Users/reinainouye/.nvm/versions/node/v15.10.0/lib/node_modules/yarn/lib/cli.js:310:30)
+      at /Users/reinainouye/.nvm/versions/node/v15.10.0/lib/node_modules/yarn/lib/cli.js:321:13
+
+npm manifest: 
+  
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
